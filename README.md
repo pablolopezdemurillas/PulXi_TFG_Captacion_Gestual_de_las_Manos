@@ -14,3 +14,5 @@ Este repositorio contiene el código fuente y la documentación técnica de **Pu
 * **Hardware:** 15 sensores inerciales (ICM-20948) distribuidos en 5 circuitos impresos flexibles (FPC), centralizados en una placa rígida (PCB) con multiplexores I2C (TCA9548A) y un microcontrolador ESP32.
 * **Firmware (C++):** Sistema basado en FreeRTOS para el ESP32, con filtro de Madgwick para fusión sensorial y transmisión de cuaterniones por Bluetooth.
 * **Software (C# / Unity):** Aplicación de visualización 3D que recibe los datos espaciales y aplica cinemática directa sobre un modelo articulado de la mano.
+  
+<img width="1086" height="1448" alt="Prototipo_final_con_carcasa_3D" src="https://github.com/user-attachments/assets/23632e14-5138-4173-82c6-ebc7ec30ec75" />
