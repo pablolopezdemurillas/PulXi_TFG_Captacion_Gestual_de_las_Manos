@@ -8,7 +8,7 @@
 Este repositorio contiene el código fuente y la documentación técnica de **PulXi**, un sistema embebido portable diseñado para la captura del movimiento de las manos y su digitalización en tiempo real. 
 
 ## 🎥 Vídeo de demostración
-* [Funcionamiento del guante y la mano en Unity] -> (BORRA ESTO Y PEGA AQUÍ TU ENLACE)
+* [Funcionamiento del guante y la mano en Unity] -> https://drive.google.com/file/d/1-i3hrhU6XlhIvW47GJlZy0zaPKrzVv4r/view?usp=drive_link
 
 ## ⚙️ Arquitectura del Proyecto
 * **Hardware:** 15 sensores inerciales (ICM-20948) distribuidos en 5 circuitos impresos flexibles (FPC), centralizados en una placa rígida (PCB) con multiplexores I2C (TCA9548A) y un microcontrolador ESP32.
