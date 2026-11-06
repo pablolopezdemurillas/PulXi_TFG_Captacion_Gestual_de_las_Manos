@@ -6,6 +6,7 @@
 **Escuela Politécnica Superior, Universidad de Sevilla**
 
 Este repositorio contiene el código fuente y la documentación técnica de **PulXi**, un sistema embebido portable diseñado para la captura del movimiento de las manos y su digitalización en tiempo real. 
+Toda la documentación técnica (Memoria, Planos, Presupuesto) está disponible bajo petición.
 
 ## 🎥 Vídeo de demostración
 * [Funcionamiento del guante y la mano en Unity] -> https://drive.google.com/file/d/1-i3hrhU6XlhIvW47GJlZy0zaPKrzVv4r/view?usp=drive_link
